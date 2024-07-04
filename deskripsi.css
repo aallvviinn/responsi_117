@@ -1,0 +1,16 @@
+.wrap {
+    margin: auto;
+    width: 60%;
+    background-color: blanchedalmond;
+    border-radius: 20px;
+}
+
+.posisi {
+    padding: 20px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color:azure;
+}
